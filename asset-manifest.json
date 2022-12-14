@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amitkk07/Bharat-News-App/static/css/main.abd64e84.css",
+    "main.js": "/amitkk07/Bharat-News-App/static/js/main.6e1ac519.js",
+    "static/js/787.4c026eef.chunk.js": "/amitkk07/Bharat-News-App/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/amitkk07/Bharat-News-App/static/media/loading.b77be953882c1bb116fb.gif",
+    "index.html": "/amitkk07/Bharat-News-App/index.html",
+    "main.abd64e84.css.map": "/amitkk07/Bharat-News-App/static/css/main.abd64e84.css.map",
+    "main.6e1ac519.js.map": "/amitkk07/Bharat-News-App/static/js/main.6e1ac519.js.map",
+    "787.4c026eef.chunk.js.map": "/amitkk07/Bharat-News-App/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.6e1ac519.js"
+  ]
+}
